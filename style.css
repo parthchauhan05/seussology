@@ -1,0 +1,18 @@
+.fixed-height{
+    height: 215.45px !important;
+    width: 152px !important;
+    margin-bottom: 0;
+    color: #ffffff;
+    background-color: #14A24A;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.card{
+    color: #ffffff;
+    background-color: #14A24A;
+}
+
+.fixed-lh{
+    line-height: 215.45px;
+}
